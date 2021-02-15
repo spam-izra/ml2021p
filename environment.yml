@@ -1,0 +1,15 @@
+name: ml
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - seaborn
+  - plotly
+  - rise
+  - scikit-learn
+  - graphviz
